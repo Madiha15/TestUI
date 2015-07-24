@@ -1,0 +1,69 @@
+header {
+  width: 1250px;
+    height: 32px;
+    background: url(images/bg-copy-52.png);
+}
+
+aside{
+    width: 181px;
+    height: 335px;
+    background: url(url(images/bg-copy-14.png)
+    float:left;
+}
+
+content
+{
+    padding:20px;   
+    float: left;
+    background: url(images/bg-copy-104.png);
+}
+
+.cal{
+    width: 994px;
+    height: 115px;
+    background: url(images/bg-copy-3.png)
+}
+.pulse{
+    width: 994px;
+    height: 265px;
+    background: url(images/bg-copy-104.png);
+}
+
+.pulseheader{
+    margin-left: 20px;
+    left: 10;
+}
+
+.pulsecontent{
+    width: 160px;
+    height: 95px;
+    background: url(images/small-bg-copy-53.png);
+    float: left;
+    margin-left: 20px;
+    margin-top: 100px;
+    text-align: center;
+}
+
+.pulsecontent:hover {
+    width: 278px;
+    height: 164px;
+    background: url(images/box-in-focus-copy-18.png);
+    position: relative;
+    bottom: 40px;
+}
+
+.pulsecount{
+    margin-top: 20px;
+    color: #34bbf3;
+    font: 400 32px / 34px Arial;
+}
+
+.pulsetext {
+    color: #93afc0;
+    font: 400 16px / 20px Arial;
+}
+
+.pulsetotal {
+    color: #93afc0;
+    font: 400 11px / 24px Arial;
+}
